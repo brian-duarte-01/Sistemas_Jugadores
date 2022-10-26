@@ -1,0 +1,11 @@
+.menu{
+    height: 6vh;
+    width: 1000%;
+}
+.pa{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 90vh;
+    width: 100%;
+}
